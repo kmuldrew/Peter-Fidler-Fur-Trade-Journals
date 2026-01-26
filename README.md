@@ -1,0 +1,1 @@
+Transcriptions of Peter Fidler's journals from his time with the Hudson's Bay Company. Lots of errors and unreadable words, but most of it is there. The kml files show his approximate camp sites; load the file into google earth to follow the geography being described.
