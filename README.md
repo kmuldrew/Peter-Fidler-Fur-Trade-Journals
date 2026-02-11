@@ -13,3 +13,6 @@ Volume 2:  1792-1800
 5. Journal from Greenwich House to LIttle Slave Lake River - 1800:			110-121
 6. Journal from the South Branch to Chesterfield House 1800:					122-141
 
+Volume 3: 1807-1808
+1. Journal - Cumberland House to Athapescow Lake - 1807
+2. Journal - Swan to Red River to Nelson's River - 1808
