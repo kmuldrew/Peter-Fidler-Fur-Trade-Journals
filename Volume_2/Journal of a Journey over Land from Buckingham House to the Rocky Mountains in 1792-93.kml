@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1Xpknrerr3pBBkU7k1Uumdwbf4SOz3zbx">
+	<name>Buckingham House to the Rocky Mountain 1792</name>
+	<StyleMap id="__managed_style_01134855CD3DACDDA634">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1D075466BB3DACDDA634</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2FA19777583DACDDA634</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1D075466BB3DACDDA634">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_13F9A1F6843DACDDA631">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2FA19777583DACDDA634">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2412A6003C3DACDDA631">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0C832217B63DACDDA631">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_13F9A1F6843DACDDA631</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2412A6003C3DACDDA631</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="030756D9D53D8A5DB84C">
+		<name>Buckingham House Nov 8 1792</name>
+		<LookAt>
+			<longitude>-110.7247396707336</longitude>
+			<latitude>53.84016748950344</latitude>
+			<altitude>517.3171772809911</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>26753.53284107522</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-110.7538124418177,53.86073543440642,561.3399838695291</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F159ED0593D8A6178FB">
+		<name>Camp Nov 8 1792</name>
+		<LookAt>
+			<longitude>-110.7516703968464</longitude>
+			<latitude>53.843252816917</latitude>
+			<altitude>582.7066456417675</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11982.64309008722</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-110.7377144475993,53.82705207352409,588.4432015300745</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045BDB65713D8A6647E0">
+		<name>Camp Nov 9 1792</name>
+		<LookAt>
+			<longitude>-110.9074400030726</longitude>
+			<latitude>53.68108345696095</latitude>
+			<altitude>658.9536645053031</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>25174.84832655173</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-110.907584597703,53.7133262938723,615.2858593050347</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04B5CF09F23D8A68087B">
+		<name>Camp Nov 10 1792</name>
+		<LookAt>
+			<longitude>-111.0402633168226</longitude>
+			<latitude>53.5754779876479</latitude>
+			<altitude>691.9055055043661</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>62102.42611605674</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-111.4805292793044,53.5063536959455,693.9511446363832</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0687A751F73D8A6B12A8">
+		<name>Camp Nov 11 1792</name>
+		<LookAt>
+			<longitude>-111.1082861446349</longitude>
+			<latitude>53.52598151455584</latitude>
+			<altitude>695.9551114392493</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>63708.98901793174</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-111.9391141835184,53.33160981323226,711.4512850899586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA7BA90193D8A6E2723">
+		<name>Camp Nov 13 1792</name>
+		<LookAt>
+			<longitude>-112.7014016513286</longitude>
+			<latitude>53.10555614312221</latitude>
+			<altitude>763.4190064285544</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>93729.29805723019</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.8508644185488,53.10171850279852,764.9226836811804</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC30906893D8A703918">
+		<name>Camp Nov 12 1792</name>
+		<LookAt>
+			<longitude>-112.4226016596587</longitude>
+			<latitude>53.23449809081327</latitude>
+			<altitude>714.7542869342893</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>93922.08228271456</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.4219441403817,53.24494979220164,715.2007206375118</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08D5FBF0CF3D8DA01ED7">
+		<name>Camp Nov 14 1792</name>
+		<LookAt>
+			<longitude>-113.2510465308243</longitude>
+			<latitude>52.93998918378064</latitude>
+			<altitude>755.8170128040858</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00060396857487</gx:fovy>
+			<range>30071.16773828399</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.280795489598,52.89521349548325,766.9833896009412</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02FECEEFD63D8DA211D0">
+		<name>Camp Nov 15 1792</name>
+		<LookAt>
+			<longitude>-113.597718981385</longitude>
+			<latitude>52.71693260095305</latitude>
+			<altitude>843.6981057251417</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00060396857487</gx:fovy>
+			<range>55329.33971995489</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.4223721883647,52.67241935774394,824.8329853382669</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3A3F33663D8DA971F8">
+		<name>Camp Nov 16-17 1792</name>
+		<LookAt>
+			<longitude>-113.7330956290763</longitude>
+			<latitude>52.58355194593529</latitude>
+			<altitude>855.6727229720018</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00060396857487</gx:fovy>
+			<range>13572.34975834145</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6745024741958,52.41355580789065,864.049489669547</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004128DDDF3D8DAD14E1">
+		<name>Camp Nov 18-19 1792</name>
+		<LookAt>
+			<longitude>-113.6195610296947</longitude>
+			<latitude>52.28804038380247</latitude>
+			<altitude>908.7081907274722</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00060396857487</gx:fovy>
+			<range>24187.26898906986</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.5888200951551,52.27384140249537,871.8063692625345</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7E45EA643D8DB5AB00">
+		<name>Camp Nov 20 1792</name>
+		<LookAt>
+			<longitude>-113.6632086675755</longitude>
+			<latitude>52.16121696406903</latitude>
+			<altitude>943.3460880281754</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00060396857487</gx:fovy>
+			<range>14806.5194692486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6596453394219,52.15794251888509,949.5645600755682</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CBB303DF3D8E1A22D8">
+		<name>Buffalo Jump Dec 5 1792</name>
+		<LookAt>
+			<longitude>-113.8174452167482</longitude>
+			<latitude>51.4857036164771</latitude>
+			<altitude>944.6222965874273</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>382.3189283608735</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8171921626539,51.48562493607685,944.1835258280404</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCE1A53F43D8E1CF2A8">
+		<name>Camp Nov 21-25 1792</name>
+		<LookAt>
+			<longitude>-113.6770837314154</longitude>
+			<latitude>52.11978472142388</latitude>
+			<altitude>973.0875359237128</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>8891.829742836999</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6704537999887,52.13645987041247,957.5672052672888</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001488DB123D8E1E47B1">
+		<name>Camp Nov 26 1792</name>
+		<LookAt>
+			<longitude>-113.7131087036906</longitude>
+			<latitude>52.07178571716902</latitude>
+			<altitude>984.0739183981159</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>43315.49327682238</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6729759125593,52.0742364592523,951.5499491625387</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2387061A3D8E211C56">
+		<name>Camp Nov 27-28 1792</name>
+		<LookAt>
+			<longitude>-113.6819235870533</longitude>
+			<latitude>51.92814490607654</latitude>
+			<altitude>943.5879341553724</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>41076.08178519644</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.7374184089414,51.98795813912917,944.9324252054244</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BF7F6725A3D8E258170">
+		<name>Camp Nov 29 1792</name>
+		<LookAt>
+			<longitude>-113.6760700388878</longitude>
+			<latitude>51.98770368000522</latitude>
+			<altitude>1023.382277696022</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>54824.90615590477</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.7561871947685,51.93653399578443,960.6045270787433</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4A547D033D8E27DAAE">
+		<name>Camp Nov 30-Dec 2 1792</name>
+		<LookAt>
+			<longitude>-113.6877281348706</longitude>
+			<latitude>51.8665688523762</latitude>
+			<altitude>933.858031569218</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>85995.5539396964</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.788432470733,51.81141032834229,961.9438063122881</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0360350D6A3D8E28DBE3">
+		<name>Camp Dec 3 1792</name>
+		<LookAt>
+			<longitude>-113.7215855374551</longitude>
+			<latitude>51.78059186743733</latitude>
+			<altitude>898.0090311487382</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>20624.7199224215</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6268351493645,51.7143809057917,923.3096091630589</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD1123D743D8E2F93BC">
+		<name>Camp Dec 4 1792</name>
+		<LookAt>
+			<longitude>-113.6988482584633</longitude>
+			<latitude>51.56390371518621</latitude>
+			<altitude>943.0494452576044</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>47348.84354206268</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.7760579370455,51.5973523773859,925.0979357999632</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03EFA9D1593D8E336ED8">
+		<name>Camp Dec 5 1792</name>
+		<LookAt>
+			<longitude>-113.8120414796348</longitude>
+			<latitude>51.46858616705326</latitude>
+			<altitude>989.5718611613092</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>17187.47081212001</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8778124585802,51.4434494728933,968.1482215700638</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="028C70B1DE3D8E347324">
+		<name>Camp Dec 6 1792</name>
+		<LookAt>
+			<longitude>-113.797570642042</longitude>
+			<latitude>51.38531833761029</latitude>
+			<altitude>1013.753437021348</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>63036.89945451915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.7845055296749,51.33375914051989,954.3486579974178</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021116C3423D8E3804C4">
+		<name>Camp Dec 7 1792</name>
+		<LookAt>
+			<longitude>-113.6532839660429</longitude>
+			<latitude>51.23299139134211</latitude>
+			<altitude>953.2292355072422</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>50653.98849452846</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6505205746863,51.16055929601212,926.8442452984865</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A9D6713A3D8E39556B">
+		<name>Camp Dec 8 1792</name>
+		<LookAt>
+			<longitude>-113.5219974365396</longitude>
+			<latitude>51.11030592762814</latitude>
+			<altitude>949.8131259099762</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>45859.63271958288</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6907276299637,51.03516308018806,977.1675556504675</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021823B1C03D8E3A62FC">
+		<name>Camp Dec 9 1792</name>
+		<LookAt>
+			<longitude>-113.5644922517776</longitude>
+			<latitude>51.02589047788545</latitude>
+			<altitude>1037.557997251087</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>115608.0915003643</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8416880158626,50.94331872878769,1036.908906829682</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055BA3558C3D8E433BD1">
+		<name>Camp Dec 14-16 1792</name>
+		<LookAt>
+			<longitude>-113.7279793694668</longitude>
+			<latitude>50.78360819868956</latitude>
+			<altitude>1055.137095600525</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0000010394244</gx:fovy>
+			<range>31816.99500740971</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8739659274009,50.64460899614186,1037.151742412896</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013F0B93C03D8F2AAED8">
+		<name>Camp Dec 10-11 1792</name>
+		<LookAt>
+			<longitude>-114.0108531316318</longitude>
+			<latitude>51.0408973104765</latitude>
+			<altitude>1034.469944147752</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7124.063485261286</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.9507704715542,50.84350199133246,1041.425815342571</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04A34CF2433D8F2C2268">
+		<name>Camp Dec 12 1792</name>
+		<LookAt>
+			<longitude>-114.0262470265057</longitude>
+			<latitude>51.04151905844201</latitude>
+			<altitude>1050.992536164922</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>32740.77030769084</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.938751347491,50.74556733166078,1051.566673885449</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F99803DD3D8F2DA2D3">
+		<name>Camp Dec 13 1792</name>
+		<LookAt>
+			<longitude>-114.0174497422292</longitude>
+			<latitude>50.91243692144142</latitude>
+			<altitude>1014.274182038011</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>37907.56674132776</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8640480394453,50.73038463675805,1024.268329673072</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB354E3C63D8F32653C">
+		<name>Camp Dec 17 1792</name>
+		<LookAt>
+			<longitude>-113.8934084642266</longitude>
+			<latitude>50.59582650815958</latitude>
+			<altitude>1041.616189776379</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>18602.10687426617</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.9100526993182,50.5732543781438,1065.434930634056</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03EFC69C4D3D93F2E75B">
+		<name>Camp Dec 18-19 1792</name>
+		<LookAt>
+			<longitude>-113.8900965421932</longitude>
+			<latitude>50.47930000277503</latitude>
+			<altitude>1078.710458026102</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>3642.425378349145</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8880601276227,50.48044767838629,1060.022564298284</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05B97F4EA73D93F4F8EB">
+		<name>Camp Dec 20-24 1792</name>
+		<LookAt>
+			<longitude>-113.8968307533102</longitude>
+			<latitude>50.42628993227131</latitude>
+			<altitude>1055.632229962634</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>7116.906242578989</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8884379099317,50.41897500898025,1041.720426775652</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2A6EAD6F3D93F767A3">
+		<name>Camp Dec 25-26 1792</name>
+		<LookAt>
+			<longitude>-114.0912640123851</longitude>
+			<latitude>50.41816967795994</latitude>
+			<altitude>1241.631193512804</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>30864.12792609539</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.1657813044785,50.41925268718049,1211.993714045541</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056527EB8B3D93FB4444">
+		<name>Camp Dec 27-29 1792</name>
+		<LookAt>
+			<longitude>-114.0961869485617</longitude>
+			<latitude>50.38465671589449</latitude>
+			<altitude>1221.216302592491</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>6708.069706902608</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.1018773543675,50.38376773021078,1229.960865382281</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="011C3B83753D941C3DD9">
+		<name>Camp Dec 30 1792</name>
+		<LookAt>
+			<longitude>-114.4417586366601</longitude>
+			<latitude>50.11807087328238</latitude>
+			<altitude>1738.029658254584</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>14262.95915074646</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.4405787370993,50.1054448453584,1707.555226080294</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077B45FB0C3D9420269B">
+		<name>Old Man Bowling Green Dec 31 1792</name>
+		<LookAt>
+			<longitude>-114.4683249192098</longitude>
+			<latitude>49.97406577999883</latitude>
+			<altitude>1584.440671245262</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>1639.753038737399</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.4724237330464,49.97377143523239,1551.974945537248</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0563928A703D94518CB3">
+		<name>Peak scaled by Fidler Dec 30 1792</name>
+		<LookAt>
+			<longitude>-114.4612163371729</longitude>
+			<latitude>50.00067833533758</latitude>
+			<altitude>2077.706519286257</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>6609.208530855831</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.4583834293523,50.00171074706627,2147.487769107166</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EE10BFD363D94523288">
+		<name>Kootenay campsite Dec 30 1792</name>
+		<LookAt>
+			<longitude>-114.4799151159689</longitude>
+			<latitude>49.98473720743354</latitude>
+			<altitude>1625.231188533581</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>3799.763823001413</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.4857881107032,49.98351862536202,1571.867495228037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01EF0FE5DA3D94562B0E">
+		<name>Side trip to meet Kootenays</name>
+		<LookAt>
+			<longitude>-114.2189237133812</longitude>
+			<latitude>50.31900538721122</latitude>
+			<altitude>1305.388842628506</altitude>
+			<heading>0.4291895945065646</heading>
+			<tilt>0.444347107744166</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>55387.52328202128</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<LineString>
+			<coordinates>
+				-114.4585348034752,50.00160768292937,0 -114.4597504926064,50.00035856994347,0 -114.4644112010643,50.00042336957816,0 -114.4656669087631,49.99914653330904,0 -114.466807286865,49.99871849566458,0 -114.4705468871189,49.99868797998903,0 -114.4722682976774,49.99737399372349,0 -114.4760267601722,49.99698490791405,0 -114.4795638054616,49.9961703027716,0 -114.4835172969819,49.99503665688382,0 -114.4859184916138,49.9938482191592,0 -114.4888915624601,49.99298338483649,0 -114.4924689751708,49.9915006191592,0 -114.4946084534483,49.99007807046148,0 -114.4949911448441,49.9891534520907,0 -114.4930681002865,49.98713737896166,0 -114.4908284963096,49.98542932480174,0 -114.4858795618124,49.98346920725565,0 -114.4818644186857,49.98184635621011,0 -114.4795314634765,49.98072951314792,0 -114.4769684982972,49.97847927050433,0 -114.4744776119085,49.97594398530231,0 -114.4721768735889,49.97380094008741,0 -114.468727721693,49.97237215172399,0 -114.4667406912646,49.9686994462103,0 -114.4649985281866,49.96630034924916,0 -114.4656030147941,49.96445342800678,0 -114.4571463117299,49.95959482737674,0 -114.4563753869904,49.95586019457582,0 -114.4517740461379,49.95300711705791,0 -114.4470065350255,49.95103691415427,0 -114.4434548677153,49.94847309251093,0 -114.4381570974565,49.94897382316543,0 -114.433165727038,49.94934095167133,0 -114.4267381996324,49.94888874086856,0 -114.4232309893818,49.94750849304387,0 -114.4194934117141,49.94866019474156,0 -114.4095235091566,49.94948997490557,0 -114.4026414545749,49.94989336247779,0 -114.3956777612412,49.94858914113296,0 -114.3911418570541,49.94714210537217,0 -114.3909326621798,49.95045633322172,0 -114.3923377400666,49.95460441216854,0 -114.3921747252507,49.96007256760343,0 -114.3970588130077,49.96377807419134,0 -114.3992258784951,49.96611179287451,0 -114.3993247628989,49.97310407655691,0 -114.4016174428688,49.97414342633369,0 -114.4010998332043,49.97745688906004,0 -114.3998707801859,49.98197538071622,0 -114.4017201497729,49.98467399808289,0 -114.4024612236619,49.98808951021501,0 -114.4017932544208,49.99060371345525,0 -114.4003191402437,49.99188509512631,0 -114.4015913396239,49.99578327807036,0 -114.4057488285142,50.00041318135495,0 -114.4082990106088,50.0032954979173,0 -114.4119494688073,50.00488194263036,0 -114.4125166337389,50.00817464068825,0 -114.4159027188336,50.01233221006959,0 -114.4182656783421,50.01512953646974,0 -114.4179177342128,50.01762449572881,0 -114.4227688171243,50.0203703182265,0 -114.4217501399067,50.02227793287481,0 -114.4237847809231,50.02427468216622,0 -114.4261901741988,50.02459748612953,0 -114.4259975302964,50.02723532231605,0 -114.4254852252906,50.03175530760409,0 -114.4254870325185,50.03333360914439,0 -114.4268861310808,50.03686697975143,0 -114.4226603325692,50.04366036930385,0 -114.4226548860173,50.04796466691359,0 -114.4234419716529,50.05042927237902,0 -114.4226854040168,50.05648531199766,0 -114.4253949246801,50.06270048226925,0 -114.4264908162856,50.06748268005957,0 -114.4242167310691,50.07584229488556,0 -114.4242526515111,50.08256419240645,0 -114.4274889217181,50.08875340764807,0 -114.432335953716,50.09375608054166,0 -114.4396395704381,50.10022714431663,0 -114.4402739993296,50.10514437209548,0 -114.4371457987588,50.11439095071731,0 -114.4315567336721,50.11957648002194,0 -114.4341947487934,50.12664626204517,0 -114.4396685486954,50.13681487472424,0 -114.4462445976278,50.14307886603142,0 -114.4498611165095,50.15073480529491,0 -114.4550716370273,50.16457506460867,0 -114.4605214343276,50.17294641697715,0 -114.4693696826013,50.17971312374711,0 -114.4573053090057,50.18015992327597,0 -114.4490425340314,50.18210827043938,0 -114.4430423155651,50.18593748455669,0 -114.4444589100759,50.193566380554,0 -114.445777333145,50.20146829476781,0 -114.4365282597898,50.20824612880918,0 -114.4389927237183,50.21252472290314,0 -114.4303235902981,50.21407969119878,0 -114.4179716965534,50.21595769572362,0 -114.4126720525033,50.21619599812654,0 -114.4042275802416,50.22226423816517,0 -114.401251472238,50.22820325364952,0 -114.388846938815,50.23318883961547,0 -114.3753297051153,50.23492840098132,0 -114.3695196695625,50.23762096397741,0 -114.3644122738229,50.23876024386034,0 -114.3555680772317,50.2397922248712,0 -114.3479516090095,50.24432097548222,0 -114.3432831424031,50.24798629648924,0 -114.3380033332283,50.25367528206607,0 -114.3339897000158,50.25706875114479,0 -114.326932948428,50.26243583483254,0 -114.3173565483966,50.26489243153473,0 -114.3094171142392,50.26937452667202,0 -114.2835894419849,50.27121513239341,0 -114.2667005098752,50.27537138661712,0 -114.2515865149966,50.28382500461688,0 -114.2056393581018,50.31022959641486,0 -114.1575408271706,50.33856483554297,0 -114.1228823390302,50.36261256852988,0 -114.1024660431768,50.38308214435311,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0AF1EAD5C93D945AAA2E">
+		<name>Side trip to mountains Jan 6 1792</name>
+		<LookAt>
+			<longitude>-114.4293627683129</longitude>
+			<latitude>50.36661389958605</latitude>
+			<altitude>1424.235033886456</altitude>
+			<heading>0.4291640288407751</heading>
+			<tilt>0.441613862289711</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>15849.83036420541</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.4590768409215,50.34859805353631,1479.724415127408</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04A04B1E433D945BB691">
+		<name>Side trip to mountains</name>
+		<LookAt>
+			<longitude>-114.2080253638012</longitude>
+			<latitude>50.42882178442844</latitude>
+			<altitude>1247.06553374342</altitude>
+			<heading>0.429164253221699</heading>
+			<tilt>0.4416261291942968</tilt>
+			<gx:fovy>30.00000015800594</gx:fovy>
+			<range>16027.0066088601</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<LineString>
+			<coordinates>
+				-114.4581634265786,50.34839656182204,0 -114.4505238258269,50.36016452708895,0 -114.439514736007,50.36293909484462,0 -114.4292355314762,50.36602241777849,0 -114.4197505911851,50.36805617154288,0 -114.406852522648,50.37278603908521,0 -114.3928665384956,50.3760966863261,0 -114.3786536915271,50.37283653618809,0 -114.3692419858483,50.37276644690925,0 -114.3516405665366,50.37708523640609,0 -114.3445132392349,50.37909633899408,0 -114.3390752668159,50.38317352782311,0 -114.3356402250146,50.39076936180134,0 -114.3284413231452,50.39613664721588,0 -114.3218383091123,50.39976389404376,0 -114.3079452659548,50.40401989052368,0 -114.2944969257873,50.40745051609502,0 -114.2830309321463,50.41054936094495,0 -114.2734909311268,50.41648851821686,0 -114.2687180450779,50.41741135194743,0 -114.2450593726199,50.41887451783868,0 -114.2264352515153,50.41835322652342,0 -114.2037521930681,50.41424580099997,0 -114.1926148655329,50.40614437838126,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0A604222163D94C0DAD0">
+		<name>Camp Jan 31 1793</name>
+		<LookAt>
+			<longitude>-114.0318851142975</longitude>
+			<latitude>50.51629055776562</latitude>
+			<altitude>1129.275903629705</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>62556.50829241611</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.0466377052696,50.53757039463829,1120.197723353227</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08710A314F3D94C1F600">
+		<name>Camp Jan 30 1793</name>
+		<LookAt>
+			<longitude>-114.166258627106</longitude>
+			<latitude>50.41511030533161</latitude>
+			<altitude>1221.830388791241</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>15809.42494795192</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-114.1930124859221,50.40624753898501,1222.933896175711</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F4F76BDD63D94C3B230">
+		<name>Camp Feb 1 1793</name>
+		<LookAt>
+			<longitude>-113.8738469535626</longitude>
+			<latitude>50.67509887296807</latitude>
+			<altitude>1032.754082283734</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>21443.19401160814</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8691465091765,50.65571999625674,1027.856555288541</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023C29DED03D94C5B1C0">
+		<name>Camp Feb 3 1793</name>
+		<LookAt>
+			<longitude>-113.860047392456</longitude>
+			<latitude>50.73140937634341</latitude>
+			<altitude>1005.302262130995</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>10342.23866809742</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.8604243867697,50.7337554415279,999.4429999645637</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08973788563D94C6FA16">
+		<name>Camp Feb 4 1793</name>
+		<LookAt>
+			<longitude>-113.8104743631401</longitude>
+			<latitude>50.80566521142438</latitude>
+			<altitude>1007.760896438232</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>33626.8325016601</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.7423557377636,50.80864384274736,1024.227898086763</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB04600B53D94C85CE0">
+		<name>Camp Feb 6 1793</name>
+		<LookAt>
+			<longitude>-113.7263119165064</longitude>
+			<latitude>50.88915452673812</latitude>
+			<altitude>1026.907755983382</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>39298.29687123187</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6813795934828,50.89138178196755,1026.808989972692</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D3A9F7FB23D94C9DF9C">
+		<name>Camp Feb 7 1793</name>
+		<LookAt>
+			<longitude>-113.8522302243234</longitude>
+			<latitude>51.06071902223073</latitude>
+			<altitude>1059.143640759977</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>111656.7476609163</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.6862682864345,51.03511787735151,1086.625327992493</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F6D25D753D94CAAE70">
+		<name>Camp Feb 8 1793</name>
+		<LookAt>
+			<longitude>-113.9470829797136</longitude>
+			<latitude>51.29797584713511</latitude>
+			<altitude>1123.248760714227</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>141543.2451876998</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.4947603239998,51.2007978548415,1063.402000035537</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0709800EDE3D94CBB21E">
+		<name>Camp Feb 9 1793</name>
+		<LookAt>
+			<longitude>-113.808452192556</longitude>
+			<latitude>51.5972355201703</latitude>
+			<altitude>955.7368120061878</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>7571.153814287391</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.2843135642794,51.3095050629564,960.0803014710632</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04548298073D94CCDBD8">
+		<name>Camp Feb 10 1793</name>
+		<LookAt>
+			<longitude>-113.7472496269702</longitude>
+			<latitude>51.75845791554572</latitude>
+			<altitude>967.5717956529231</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>23672.37917555496</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-113.0440703968559,51.38610330397664,925.6548115520942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6BB309D73D94D1B607">
+		<name>Camp Feb 13 1793</name>
+		<LookAt>
+			<longitude>-112.8419843647051</longitude>
+			<latitude>51.47570616635907</latitude>
+			<altitude>778.9345055938638</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>17091.95536889602</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.8266525655167,51.49154641932491,783.5903874678357</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06E88CE19F3D94D8C75C">
+		<name>Camp Feb 12 1793</name>
+		<LookAt>
+			<longitude>-113.072362143228</longitude>
+			<latitude>51.46322549957063</latitude>
+			<altitude>828.4396326480596</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000014202</gx:fovy>
+			<range>61301.69902198948</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.9718063264368,51.44818546146004,825.6643078691569</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0788C762FA3D97C8E293">
+		<name>Camp Feb 14-15 1793</name>
+		<LookAt>
+			<longitude>-112.912887505602</longitude>
+			<latitude>51.50465271528095</latitude>
+			<altitude>827.0994063427784</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>50869.5334934257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.8492707308948,51.50683906495311,705.0275398501207</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C354A74C73D97C95948">
+		<name>Camp Feb 16-17 1793</name>
+		<LookAt>
+			<longitude>-112.9478498149603</longitude>
+			<latitude>51.59505605741989</latitude>
+			<altitude>827.5049858886536</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>50869.12408431061</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.9089489673375,51.67410166753235,681.2225812341727</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C284A4683D97C9D0F8">
+		<name>Camp Feb 18-22 1793</name>
+		<LookAt>
+			<longitude>-112.9478498149603</longitude>
+			<latitude>51.59505605741989</latitude>
+			<altitude>827.5049858886536</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>50869.12408431061</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.9584873709726,51.76257172498254,714.857199831149</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053B6FE79C3D97CE109F">
+		<name>Camp Feb 23-27 1793</name>
+		<LookAt>
+			<longitude>-112.7459402254589</longitude>
+			<latitude>51.93375910968462</latitude>
+			<altitude>844.5862966010577</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>12307.38387845457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.8689827095204,51.9296336848927,850.4773270724708</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED4AA72403D97D17B0E">
+		<name>Camp Feb 28 1793</name>
+		<LookAt>
+			<longitude>-112.8979539142223</longitude>
+			<latitude>52.20625740379121</latitude>
+			<altitude>886.5384733514645</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>89829.14815756492</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.6939000891861,52.08436982393226,812.7327484651505</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4D825C003D97D258F9">
+		<name>Camp March 1-5 1793</name>
+		<LookAt>
+			<longitude>-112.7677746841552</longitude>
+			<latitude>52.30740101602625</latitude>
+			<altitude>834.4266703776386</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>160719.9918724224</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.5150340281048,52.12586426157048,806.0737611012339</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="023C72BFC03D97DCDC3C">
+		<name>Camp March 8 1793</name>
+		<LookAt>
+			<longitude>-112.4777474843542</longitude>
+			<latitude>52.45273405886113</latitude>
+			<altitude>753.3980023203382</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>58803.37779932655</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.4376849665199,52.45688343651014,767.0463699372019</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C19994173D97DD6FCB">
+		<name>Camp March 9 1793</name>
+		<LookAt>
+			<longitude>-112.5387201538349</longitude>
+			<latitude>52.58506946235118</latitude>
+			<altitude>708.5831841508566</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>58848.19326376542</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.4712977627486,52.57692010461795,742.8046833297154</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DAE916053D97DDDD56">
+		<name>Camp March 10 1793</name>
+		<LookAt>
+			<longitude>-112.5082624164657</longitude>
+			<latitude>52.65478348649415</latitude>
+			<altitude>753.7142176017049</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>58803.05145872757</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.398861369531,52.64780229734902,708.4049273773729</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04878C13A23D97E05C2C">
+		<name>Camp March 6-7 1793</name>
+		<LookAt>
+			<longitude>-112.5735669807204</longitude>
+			<latitude>52.44988251194817</latitude>
+			<altitude>796.6935400798512</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>101319.665915966</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.3700679065405,52.22014272119369,777.2660250975376</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B7BF3BCC3D9867D00C">
+		<name>Camp March 12 1793</name>
+		<LookAt>
+			<longitude>-111.178555017767</longitude>
+			<latitude>52.9768250775637</latitude>
+			<altitude>715.4268654887679</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>253394.8834543303</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-112.1858780688137,52.76508930729473,712.2656254076612</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4DD13E283D9868123F">
+		<name>Camp March 13 1793</name>
+		<LookAt>
+			<longitude>-111.178555017767</longitude>
+			<latitude>52.9768250775637</latitude>
+			<altitude>715.4268654887679</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>253394.8834543303</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<Point>
+			<coordinates>-111.9177103502726,52.85331912648545,705.0549959304871</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09CCE68F483D997C1346">
+		<name>trip South</name>
+		<LookAt>
+			<longitude>-114.0122348709612</longitude>
+			<latitude>50.29697019327234</latitude>
+			<altitude>1311.722776006253</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>104472.6975817792</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<LineString>
+			<coordinates>
+				-110.7524464045239,53.85967361510767,0 -110.7851894659604,53.84251469859561,0 -110.7358622639544,53.82837674772201,0 -110.7522688564409,53.7811729856143,0 -110.7678229124831,53.75558839844549,0 -110.8241320036565,53.74649398120685,0 -110.8578681214299,53.73481873573822,0 -110.9040901285775,53.71569693304889,0 -110.9552831515797,53.6889061756431,0 -111.0202823226281,53.67482809433913,0 -111.0697651095824,53.65676650174252,0 -111.1190948646386,53.63429947343672,0 -111.1524859226338,53.61762462560309,0 -111.1959581918297,53.60139647959176,0 -111.2623801874864,53.5829904187589,0 -111.3803674417869,53.54576733381148,0 -111.4596647241494,53.51320588986861,0 -111.5622070803638,53.47382257285379,0 -111.636606049708,53.43686809914005,0 -111.7279986401336,53.39754873242148,0 -111.8075553056774,53.38007650428148,0 -111.9255062453871,53.33632531022965,0 -112.0252966420051,53.3132580033277,0 -112.1262725232342,53.28895534914186,0 -112.2941929989612,53.25402404833917,0 -112.4198343026114,53.24519761917666,0 -112.5461102405695,53.20396750550101,0 -112.6226497057791,53.18714807798203,0 -112.6950455183957,53.15782420557792,0 -112.7773975677982,53.12407363889468,0 -112.8481795262476,53.10145386829542,0 -112.9427436044624,53.07440366636487,0 -113.0361155932632,53.0646059947411,0 -113.0716361323974,53.06685547398664,0 -113.1149051452458,53.05190633037677,0 -113.1690328651013,52.99980502010165,0 -113.2093540307471,52.9566875286508,0 -113.2449989405563,52.91716255658436,0 -113.2792872560288,52.89588528229656,0 -113.3150802052866,52.84667849647012,0 -113.3541588506908,52.7958796423213,0 -113.3752598475024,52.75261294560752,0 -113.3943587559684,52.71784117240806,0 -113.4224061223739,52.67447074552479,0 -113.4663839250881,52.60375698062967,0 -113.5240790888557,52.56703765189743,0 -113.5812160022311,52.51396930419877,0 -113.6330648045718,52.4837043053451,0 -113.656954818665,52.45891817557654,0 -113.6755662944892,52.415316440015,0 -113.6620412572242,52.38466179643352,0 -113.6529563825739,52.3577659075497,0 -113.6323772701414,52.31105383525725,0 -113.6124250832188,52.28492677388574,0 -113.5897898675397,52.26831121229607,0 -113.5918801038431,52.26399467527671,0 -113.5909490482932,52.25129095219472,0 -113.6382995290447,52.20394271130544,0 -113.6580412383797,52.15680522747731,0 -113.6800041071949,52.11834206695816,0 -113.674547602745,52.07210707806409,0 -113.6787261996411,52.03883614239538,0 -113.7353640594835,51.99176659677688,0 -113.7472544856589,51.96406976068256,0 -113.7555274212634,51.93340518626951,0 -113.7769307563546,51.85971053053999,0 -113.7917409368593,51.81227231814766,0 -113.7654413164802,51.78531051756486,0 -113.729976540939,51.75581693834992,0 -113.6649088554063,51.72765792022865,0 -113.6291307646072,51.71444073203179,0 -113.6317822476883,51.6781545313366,0 -113.6636328324317,51.64067296958797,0 -113.7086537812742,51.61555350435952,0 -113.7743157039224,51.59771387131932,0 -113.7831292932511,51.57053785570362,0 -113.7828211870796,51.54184353223928,0 -113.7935485535348,51.48925596814472,0 -113.8165428791393,51.48477307485657,0 -113.8375086308437,51.47293728885495,0 -113.8520639483204,51.45682961451061,0 -113.8582113881778,51.44648988493454,0 -113.8772627413735,51.44445688742694,0 -113.8686144764313,51.42082932996618,0 -113.840374676746,51.40236071199337,0 -113.8017900341639,51.36301782714106,0 -113.7854838610858,51.33403067050591,0 -113.7791375208737,51.30911826835741,0 -113.7720281820619,51.27858750868142,0 -113.7295860495047,51.20627300863015,0 -113.6504690022996,51.16071406241508,0 -113.6564051673969,51.13907413774962,0 -113.6687407146388,51.12132517087062,0 -113.6759270668818,51.09784104232842,0 -113.6822390174286,51.08049760224918,0 -113.6853994809176,51.06667094362827,0 -113.6881566673941,51.05262917646388,0 -113.6914540547772,51.03432204575796,0 -113.6971153462034,51.02667598997337,0 -113.7074375287184,51.01858479087797,0 -113.7194376216563,51.01106647528535,0 -113.7292908432505,51.00301437241373,0 -113.7422865522321,50.99875394634061,0 -113.7553308449201,50.98877872792355,0 -113.7724753281202,50.98391308551434,0 -113.7873139757694,50.97376157626919,0 -113.7968199956235,50.96778793818441,0 -113.8137479719127,50.95922618715731,0 -113.8421194370294,50.94412128221958,0 -113.8727830565475,50.91393478480129,0 -113.9055272976898,50.8870805404949,0 -113.9244931823282,50.85394515709211,0 -113.9413094963656,50.85426974339165,0 -113.9515148906665,50.84348329658811,0 -113.9524381666003,50.80195064415649,0 -113.9445456933587,50.764570438558,0 -113.9386513465175,50.74590950891232,0 -113.8649753166546,50.73099678560957,0 -113.9039202218369,50.69609152874316,0 -113.8818928661393,50.67938807941594,0 -113.8587197950124,50.66232799786301,0 -113.8667230619884,50.65810275589899,0 -113.8741641706297,50.6445992629261,0 -113.8764952359509,50.61470827501337,0 -113.8889565738666,50.59686192718945,0 -113.9052008845514,50.57361281413301,0 -113.9093492846106,50.55620373895206,0 -113.9115889921035,50.54230453287768,0 -113.9050255297854,50.52598885297829,0 -113.8936197655393,50.50897262782225,0 -113.8903196040322,50.4793760472556,0 -113.8855737816056,50.4591807623368,0 -113.8881003807079,50.42173637772861,0 -113.9447422180282,50.42278088774382,0 -113.9871794301017,50.43246396580148,0 -114.0248948090796,50.43240800879065,0 -114.0680559953519,50.42884359499627,0 -114.1265856760491,50.42202919638233,0 -114.1636754885865,50.41903759814399,0 -114.1461641052361,50.40268266536616,0 -114.1290814678044,50.39441173961396,0 -114.1031784138004,50.38578606848848,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="037CD89E793D9981256B">
+		<name>route North</name>
+		<LookAt>
+			<longitude>-110.4718849634816</longitude>
+			<latitude>53.71040579449272</latitude>
+			<altitude>599.5111024464787</altitude>
+			<heading>-0.03153332263079316</heading>
+			<tilt>0.1496703838255822</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>105148.5904965363</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0C832217B63DACDDA631</styleUrl>
+		<LineString>
+			<coordinates>
+				-114.1928505449112,50.40796078027383,0 -114.1438531278468,50.46424288635323,0 -114.1172583004939,50.48769464395395,0 -114.0801694943382,50.51390392922377,0 -114.0484830884045,50.53776875138003,0 -113.9851396842776,50.57623944544968,0 -113.9452087916083,50.59412742857439,0 -113.9209139922651,50.61891431888645,0 -113.8758658580875,50.64522271329564,0 -113.8635525416241,50.68724288819539,0 -113.8638298001491,50.7314867464334,0 -113.8258672426529,50.76118021485087,0 -113.7958055707217,50.77849751499726,0 -113.7647521126276,50.79933661586195,0 -113.7447466828725,50.807084489495,0 -113.7355479323485,50.83252990399268,0 -113.7141667431639,50.8663073961929,0 -113.6852240686935,50.88880934920747,0 -113.6863520466663,50.9576505777151,0 -113.6855876355311,51.03255905814689,0 -113.6711189695847,51.07647505304434,0 -113.6535874449044,51.08588224058981,0 -113.6249421743981,51.10762293638302,0 -113.6064613850744,51.13312134216008,0 -113.5703826114411,51.15349887075516,0 -113.5335364936798,51.17880873561601,0 -113.4955301979009,51.20261106449168,0 -113.45626950699,51.23736667072885,0 -113.426768564066,51.25296874511059,0 -113.3669347507877,51.27748292999826,0 -113.3200460183949,51.29719218237025,0 -113.285339427025,51.30838202957005,0 -113.2587800314027,51.31605083367852,0 -113.2271471401756,51.32319655284159,0 -113.1889696486474,51.33174601698592,0 -113.1518411125672,51.33462732516155,0 -113.1223123397686,51.34405275148472,0 -113.0837451916394,51.35498091744444,0 -113.0468614221401,51.38626802947999,0 -113.0005367372997,51.4115146487089,0 -112.9735510501232,51.44678712994882,0 -112.9418524959457,51.45536238744341,0 -112.9010288105535,51.45810598491425,0 -112.8553286069336,51.46969602377056,0 -112.8357869605254,51.48507891856144,0 -112.8277424763402,51.49163545101077,0 -112.8378106417287,51.49535949276135,0 -112.8400609329611,51.50154035632757,0 -112.8465113236432,51.50815895051663,0 -112.8757588163494,51.52016062509436,0 -112.8812170495933,51.53309262531859,0 -112.8877193061162,51.54841753963854,0 -112.8810767210568,51.57808933041558,0 -112.8746995417277,51.6044630527756,0 -112.8818085744059,51.62520823441083,0 -112.8932841171458,51.64263650911963,0 -112.9060784431092,51.65819303935363,0 -112.9076846608069,51.67276518397708,0 -112.9161306315496,51.69548455582214,0 -112.9277170621342,51.7086188166456,0 -112.9422544696381,51.73374325183005,0 -112.9493649188314,51.75468888954525,0 -112.9540344364862,51.76353979972243,0 -112.9331093963661,51.79287938167723,0 -112.9094307696039,51.83417179453914,0 -112.9042802556796,51.86730521648773,0 -112.8954066727707,51.89849972661045,0 -112.8710901841832,51.92979831726781,0 -112.8236801660259,51.99845316201739,0 -112.7910019803171,52.05212770188541,0 -112.6941975036495,52.08414349161977,0 -112.6243897776995,52.11084715051813,0 -112.5149036826008,52.12480761331794,0 -112.4152921737154,52.14412653112785,0 -112.3734307460437,52.17389418428679,0 -112.3692844366185,52.21949841169855,0 -112.4774524179776,52.30897933255461,0 -112.4813720749271,52.34249127911459,0 -112.4680381623648,52.37688094178408,0 -112.4589670605244,52.40059448453367,0 -112.4518285879656,52.42058526199641,0 -112.448795320724,52.44687601855163,0 -112.4369318142577,52.45690710511331,0 -112.4650651775221,52.53603030132016,0 -112.4772584282136,52.54573810920631,0 -112.4732887117028,52.55794019144877,0 -112.4688566508159,52.57829235958459,0 -112.4459075842521,52.62552532805123,0 -112.4216447019361,52.64051235140623,0 -112.3994580697175,52.64700097381576,0 -112.3754653920698,52.65365583706873,0 -112.2567500201541,52.73978644904884,0 -112.1854984044583,52.76712425238717,0 -112.0283750698774,52.81082621426249,0 -111.9754851166699,52.82802163022723,0 -111.9154587305808,52.85060840731589,0 -111.8463194000224,52.90298081784066,0 -111.8151376005011,52.94692678644513,0 -111.7804906355792,52.98106277332287,0 -111.7333935090762,53.01283439972605,0 -111.6670848616936,53.04189424286231,0 -111.5938415452784,53.07929921658684,0 -111.5691340449874,53.12309955144846,0 -111.5285810191511,53.18836615099998,0 -111.5276061745396,53.23040807232125,0 -111.5139997265733,53.25913852199432,0 -111.4818863053108,53.28384869111753,0 -111.4603264593017,53.30976306797675,0 -111.4720468195412,53.3340519600327,0 -111.4692114056727,53.36664309375992,0 -111.4436244105947,53.3908704782094,0 -111.4059801060499,53.44422970621819,0 -111.3794547142717,53.47232317585163,0 -111.3226535408871,53.50846786343025,0 -111.2420401252023,53.53758272345943,0 -111.203973648065,53.55350666097581,0 -111.1575436058659,53.56659457054523,0 -111.0869897904316,53.57810578243281,0 -111.0548177037605,53.59492577661959,0 -111.032604992597,53.60822414046881,0 -111.005331558239,53.6240973430824,0 -110.9638249930888,53.6490098270547,0 -110.9341731967758,53.68357475986779,0 -110.9102912850583,53.70613210114529,0 -110.8819856312977,53.71639150176109,0 -110.8665578892067,53.72490202155614,0 -110.8503446362549,53.73458505613021,0 -110.8236224774045,53.74444568067705,0 -110.7650731729383,53.75415920181641,0 -110.7475993449175,53.78392995963146,0 -110.74070476945,53.80468742856011,0 -110.7351749680991,53.82744836600078,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="074F198C303DA8E250A7">
+		<name>Camp March 19 1793</name>
+		<LookAt>
+			<longitude>-111.0339732188532</longitude>
+			<latitude>53.44806997013189</latitude>
+			<altitude>659.6709218379046</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0002709889342</gx:fovy>
+			<range>56254.58651966417</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01134855CD3DACDDA634</styleUrl>
+		<Point>
+			<coordinates>-111.0858211749618,53.57831723926846,649.7189284178248</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B3D0340CC3DA8E393EB">
+		<name>Camp March 18 1793</name>
+		<LookAt>
+			<longitude>-111.3188330202463</longitude>
+			<latitude>53.38709914170627</latitude>
+			<altitude>666.5316109403827</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0002709889342</gx:fovy>
+			<range>56247.72150015458</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01134855CD3DACDDA634</styleUrl>
+		<Point>
+			<coordinates>-111.3738532726299,53.47154992634394,608.4198101634341</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047BEF4FC33DA8E47810">
+		<name>Camp March 16-17 1793</name>
+		<LookAt>
+			<longitude>-111.580826513059</longitude>
+			<latitude>53.35159332882132</latitude>
+			<altitude>660.4822807968395</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0002709889342</gx:fovy>
+			<range>56253.77956836484</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01134855CD3DACDDA634</styleUrl>
+		<Point>
+			<coordinates>-111.4735045325154,53.36908757292627,675.7688297711666</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0587F771643DA8E57278">
+		<name>Camp March 15 1793</name>
+		<LookAt>
+			<longitude>-111.785132084395</longitude>
+			<latitude>53.11053754847932</latitude>
+			<altitude>691.3865617099959</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0002709889342</gx:fovy>
+			<range>26062.97833322547</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01134855CD3DACDDA634</styleUrl>
+		<Point>
+			<coordinates>-111.5142110626055,53.25456930494556,693.1172399760645</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FA44DCEA3DA8E70AB9">
+		<name>Camp March 14 1793</name>
+		<LookAt>
+			<longitude>-111.9229405067989</longitude>
+			<latitude>52.8322718230975</latitude>
+			<altitude>683.5860758093002</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.0002709889342</gx:fovy>
+			<range>28744.10369250923</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_01134855CD3DACDDA634</styleUrl>
+		<Point>
+			<coordinates>-111.8152814121082,52.94654770611408,672.4814726960611</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
