@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Swan River House to Lake Winnipeg 1808</name>
+	<gx:CascadingStyle kml:id="__managed_style_2BA17E5BFC3DC086E1CC">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_176DB5AF183DC086E1CC">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0E6C4D10C13DC086E1CC">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_176DB5AF183DC086E1CC</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2BA17E5BFC3DC086E1CC</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="099BA2CF913DC0807DBB">
+		<name>Swan River House to Assiniboine</name>
+		<LookAt>
+			<longitude>-101.9765135525598</longitude>
+			<latitude>51.7884971077544</latitude>
+			<altitude>484.881128499962</altitude>
+			<heading>15.36088390443984</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000253459919</gx:fovy>
+			<range>43895.40645468515</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<LineString>
+			<coordinates>
+				-100.8845858267027,52.38546304408246,0 -100.8881947091389,52.37683168549822,0 -100.8825560312108,52.37233157070014,0 -100.8850282984701,52.36874495471417,0 -100.8960601115383,52.36833054136317,0 -100.9099675752041,52.36500667629835,0 -100.923740000102,52.3606270442616,0 -100.9239892661974,52.34811718764874,0 -100.9265521579405,52.33681218970388,0 -100.947901237435,52.32102035883995,0 -100.9547146805071,52.31153695322466,0 -100.9443077875941,52.2990659678988,0 -100.9477463984581,52.27639090081139,0 -100.9692010234968,52.24362426942445,0 -100.9873567099909,52.23627681586994,0 -100.9958498367608,52.22404864975839,0 -101.0024532442886,52.21615023171076,0 -101.0159110665955,52.20666666595254,0 -101.0270003057935,52.20758652926428,0 -101.0406825987417,52.20414359767236,0 -101.0516587412293,52.20209421264752,0 -101.0595696075215,52.19502567467196,0 -101.0677509336571,52.19443549756415,0 -101.0761021492573,52.18817982829346,0 -101.0807168017325,52.17941298320401,0 -101.0954469883699,52.17212142665021,0 -101.1054725853528,52.15405469174902,0 -101.1312227625644,52.15644153362593,0 -101.1885426824405,52.14813568426184,0 -101.2082651149101,52.13925952371914,0 -101.2356202604521,52.13331413558485,0 -101.2631067606989,52.11552469703684,0 -101.276275612372,52.1099844658209,0 -101.2921577349331,52.09706309155055,0 -101.322165135216,52.08994874229083,0 -101.3700310971279,52.07161808260034,0 -101.3957210482419,52.06341976328158,0 -101.432624644329,52.03691525839365,0 -101.484241408354,52.00985097146823,0 -101.5113513931681,51.99144028919939,0 -101.5455394348703,51.976588461774,0 -101.6228550395522,51.95689762399875,0 -101.6671881524693,51.94025600710832,0 -101.7284066746386,51.90980715170456,0 -101.7808683317207,51.89927046054855,0 -101.8347727767869,51.89726240899909,0 -101.8959489019484,51.89220377979946,0 -101.9396460462631,51.89610208274243,0 -101.9763826218999,51.894423175033,0 -101.9920363620563,51.88361554762794,0 -102.0053948141273,51.86386858357184,0 -102.039064068696,51.83644939751002,0 -102.0415133779806,51.82462168062294,0 -102.0376200048119,51.81396266383405,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0BCDB6C2283DC081306B">
+		<name>Swan River House March 29 1808</name>
+		<LookAt>
+			<longitude>-100.9111777871603</longitude>
+			<latitude>52.38884612791368</latitude>
+			<altitude>266.600958551964</altitude>
+			<heading>16.14606988739173</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000253459919</gx:fovy>
+			<range>13264.76039350033</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-100.8850849508768,52.38603708506653,264.3678800844888</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034FBAA2D23DC082E86C">
+		<name>Carleton House April 1 1808</name>
+		<LookAt>
+			<longitude>-102.0866677944872</longitude>
+			<latitude>51.76759244423486</latitude>
+			<altitude>487.0830227057058</altitude>
+			<heading>15.22217387794048</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000253459919</gx:fovy>
+			<range>33490.24709405378</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-102.2301378162679,51.71619679928986,466.0876241846426</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B45ECDE7C3DC0839C3F">
+		<name>Assiniboine to Carleton Ho</name>
+		<LookAt>
+			<longitude>-102.0866677944872</longitude>
+			<latitude>51.76759244423486</latitude>
+			<altitude>487.0830227057058</altitude>
+			<heading>15.22217387794048</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000253459919</gx:fovy>
+			<range>33490.24709405378</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.0375838740307,51.81346284123244,0 -102.0403071533862,51.79085815475875,0 -102.054905930684,51.77294769199132,0 -102.0830491430863,51.7518312042818,0 -102.101344454471,51.73038714718096,0 -102.107699698203,51.7164350524936,0 -102.1336689659918,51.70440045050313,0 -102.1424272264659,51.70973140673507,0 -102.1493565763608,51.71253953116682,0 -102.1559944292754,51.71888398022954,0 -102.1638450768542,51.72140448266089,0 -102.1778393718915,51.72257404156704,0 -102.1925880040434,51.72518331833592,0 -102.2050231406735,51.72506476029391,0 -102.2133766181439,51.71890986692007,0 -102.2294573115951,51.71561056586236,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0A75EE7FD13DC08A6A2F">
+		<name>Somerset House - Camp March 30 1808</name>
+		<LookAt>
+			<longitude>-101.4897680186761</longitude>
+			<latitude>52.01160776828044</latitude>
+			<altitude>352.5391199851117</altitude>
+			<heading>4.665386698822374e-05</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>10651.23797266279</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.4834615076398,52.01110127543891,356.3755961141046</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02AC6B77463DC08BD2F6">
+		<name>Camp March 31 1808</name>
+		<LookAt>
+			<longitude>-101.8903474201061</longitude>
+			<latitude>51.89511724457323</latitude>
+			<altitude>414.8643428400161</altitude>
+			<heading>4.185232899132568e-05</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>52628.28978373671</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.9753893397982,51.89605279473193,464.79802758534</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00831705AC3DC08FA8F4">
+		<name>Camp April 24 1808</name>
+		<LookAt>
+			<longitude>-101.9944286637826</longitude>
+			<latitude>51.76324034231045</latitude>
+			<altitude>438.2679984402953</altitude>
+			<heading>2.336596135056891e-05</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>17863.44827875961</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-102.0244677317146,51.70054118103287,438.1715693665138</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D6D0572683DC09546E3">
+		<name>Camp April 25 1808</name>
+		<LookAt>
+			<longitude>-101.9071406873322</longitude>
+			<latitude>51.63660964212491</latitude>
+			<altitude>450.8354475406534</altitude>
+			<heading>1.510479772845577e-05</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>12629.13642529165</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.9338078292662,51.62935966976909,428.5326135837383</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07F772435B3DC0A2B194">
+		<name>Camp April 28 1808</name>
+		<LookAt>
+			<longitude>-101.3752596944754</longitude>
+			<latitude>51.10671772604764</latitude>
+			<altitude>529.0801689727743</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>55638.48513610661</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.4189643267058,51.110372248659,456.1466095395601</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="045DE1FB9B3DC0A3ADE0">
+		<name>Camp April 27 1808</name>
+		<LookAt>
+			<longitude>-101.5824177142325</longitude>
+			<latitude>51.26056324898907</latitude>
+			<altitude>506.3981526959267</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>39988.84247888345</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.5429682369503,51.26102536930868,445.4208836136673</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB649264D3DC0A40F50">
+		<name>Camp April 26 1808</name>
+		<LookAt>
+			<longitude>-101.7277202301047</longitude>
+			<latitude>51.46607979510642</latitude>
+			<altitude>515.0313136827488</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>128446.140793562</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.7729141577713,51.45404227876328,467.7732555754164</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="067D1DCECE3DC0A924F4">
+		<name>Camp April 29 1808</name>
+		<LookAt>
+			<longitude>-101.4378000333947</longitude>
+			<latitude>50.83064974128317</latitude>
+			<altitude>481.3973752359905</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>18256.7717690533</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.4325302669567,50.82080090931201,411.3529156468982</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09882B7D163DC0ACFC74">
+		<name>MacDonnel&apos;s House May 1 1808</name>
+		<LookAt>
+			<longitude>-101.503602316454</longitude>
+			<latitude>50.54093253159775</latitude>
+			<altitude>476.4178618882778</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>52217.45070347562</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.660185203655,50.51418220793273,465.8024880693629</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0935515D993DC0ADC364">
+		<name>side trip up Qu&apos;appelle river</name>
+		<LookAt>
+			<longitude>-101.503602316454</longitude>
+			<latitude>50.54093253159775</latitude>
+			<altitude>476.4178618882778</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>52217.45070347562</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<LineString>
+			<coordinates>
+				-101.3939736345156,50.52412622021029,0 -101.5032159196207,50.50951646020057,0 -101.5423306953995,50.49454316465351,0 -101.5667044821593,50.49381568054078,0 -101.5877257641002,50.49814312280574,0 -101.6050158295808,50.50870300813894,0 -101.6256254053937,50.51937704224364,0 -101.6394256409387,50.52053305233035,0 -101.6501391380701,50.51939439521815,0 -101.6584468489411,50.51402635477884,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0A432D84013DC0AFD8EB">
+		<name>Camp May 2 1808</name>
+		<LookAt>
+			<longitude>-101.2889776341986</longitude>
+			<latitude>50.38357750655234</latitude>
+			<altitude>464.7569095281633</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>25134.96653862298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.3298151063767,50.46470132392081,378.086794172595</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6D7843F73DC0B33AA9">
+		<name>Camp May 3 1808</name>
+		<LookAt>
+			<longitude>-101.1802606205144</longitude>
+			<latitude>50.33607316927417</latitude>
+			<altitude>497.5138849836835</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>102518.7955467403</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-101.0613376411794,50.12900762257729,450.1933248129088</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BB6814723DC0BB25E0">
+		<name>Brandon House May 8-15 1808</name>
+		<LookAt>
+			<longitude>-99.63445452816951</longitude>
+			<latitude>49.67376228269889</latitude>
+			<altitude>349.8932509783813</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>6799.939777299298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-99.62762151400428,49.67412563448509,336.0722393838004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0928BD8DCB3DC0DC69F6">
+		<name>Camp May 7 1808</name>
+		<LookAt>
+			<longitude>-100.0596861082252</longitude>
+			<latitude>49.85194982824885</latitude>
+			<altitude>360.305905762437</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>9155.796269791901</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-100.0670537869842,49.85371470597521,358.6356032697062</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080B036BB93DC0DE54C4">
+		<name>Camp May 5 1808</name>
+		<LookAt>
+			<longitude>-100.5647261634174</longitude>
+			<latitude>49.78690213391261</latitude>
+			<altitude>362.5876166730377</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>13484.94684573496</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-100.5550413589242,49.78616026512388,361.7155201628277</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FB2550EF13DC0DF12DC">
+		<name>Camp May 6 1808</name>
+		<LookAt>
+			<longitude>-100.513757785519</longitude>
+			<latitude>49.8673350694914</latitude>
+			<altitude>396.8118386483034</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>58924.14162134752</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-100.3963129095346,49.87346065655123,370.8370787834977</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080AD76B9C3DC0DFDF8E">
+		<name>Camp May 4 1808</name>
+		<LookAt>
+			<longitude>-100.8289080251266</longitude>
+			<latitude>49.92992747865105</latitude>
+			<altitude>448.813394105766</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>23098.74508748996</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-100.8526388707141,49.92103606361619,364.0359691445299</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09D035CB693DC0E44337">
+		<name>Camp May 16 1808</name>
+		<LookAt>
+			<longitude>-99.24956832541477</longitude>
+			<latitude>49.67285652842049</latitude>
+			<altitude>326.7118584850804</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>18825.73028635466</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-99.27317613377733,49.65146583432818,321.7767231584117</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="079531E32D3DC0E9F926">
+		<name>Camp May 22 1808</name>
+		<LookAt>
+			<longitude>-97.54366407729691</longitude>
+			<latitude>49.89327080195658</latitude>
+			<altitude>243.7742882151438</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>46698.29245818313</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.45191995327332,49.87146157452004,243.8139465659559</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0899528F4E3DC0EBF05C">
+		<name>Camp May 23 1808</name>
+		<LookAt>
+			<longitude>-97.04779408491612</longitude>
+			<latitude>50.02276219909006</latitude>
+			<altitude>233.0911248141997</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>18661.86725477222</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.02618545405647,50.03362469160115,231.254515186276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CA211A73B3DC0EDBF1C">
+		<name>Camp May 24 1808</name>
+		<LookAt>
+			<longitude>-96.8452665692481</longitude>
+			<latitude>50.32248740795636</latitude>
+			<altitude>226.3089091004108</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>18400.22516290192</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.81887971008859,50.32539752770025,226.3105468728132</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD060172F3DC0EE849E">
+		<name>Camp May 25-27 1808</name>
+		<LookAt>
+			<longitude>-96.76753482192555</longitude>
+			<latitude>50.38218279067116</latitude>
+			<altitude>226.5381370519476</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>18399.99524111627</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.7620233846622,50.38783261215355,226.4194681364979</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08A229F0E23DC0F1B3C7">
+		<name>Camp May 19 1808</name>
+		<LookAt>
+			<longitude>-98.35665727260481</longitude>
+			<latitude>49.90584377936266</latitude>
+			<altitude>289.7048539606068</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>27187.49760287349</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-98.45533661050798,49.85813798707959,279.5847045108047</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061DEE71743DC0F2A39F">
+		<name>Camp May 20 1808</name>
+		<LookAt>
+			<longitude>-98.23790572154513</longitude>
+			<latitude>49.95000968545283</latitude>
+			<altitude>258.4335256706024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>23928.45716021257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-98.18348836038503,49.96170521539037,258.5178652652696</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="089A06D0533DC0F3CF69">
+		<name>Camp May 21 1808</name>
+		<LookAt>
+			<longitude>-97.816210967318</longitude>
+			<latitude>50.00424102565684</latitude>
+			<altitude>244.3720188503367</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>39124.44040048867</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.7937919319121,50.01340475041771,244.0263735575461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CDB1EF1283DC0F43A06">
+		<name>Camp May 18 1808</name>
+		<LookAt>
+			<longitude>-98.69322071539403</longitude>
+			<latitude>49.76793201170548</latitude>
+			<altitude>331.8711616805512</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>45528.25460844208</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-98.6392021209399,49.75945700508148,294.2152429843019</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090A20C2893DC0F4B383">
+		<name>Camp May 17 1808</name>
+		<LookAt>
+			<longitude>-98.98851961687623</longitude>
+			<latitude>49.7458528870427</latitude>
+			<altitude>371.5924479280135</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>28557.4873043457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-98.96128292508526,49.7120529635758,306.6396107713615</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0092AD380C3DC0F7B309">
+		<name>Camp May 28 1808</name>
+		<LookAt>
+			<longitude>-96.7185745858753</longitude>
+			<latitude>50.63021260124362</latitude>
+			<altitude>224.6637825025865</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>56548.41172805987</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.60080526851561,50.65878040295461,224.9864220418461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B2815150C3DC0FA1D20">
+		<name>Camp May 29 1808</name>
+		<LookAt>
+			<longitude>-96.44859107885394</longitude>
+			<latitude>51.07358134221235</latitude>
+			<altitude>219.9146724146904</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>26975.65211967565</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.44121960938362,51.07311026281268,219.8775201262479</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041FE7FB3D3DC0FB0880">
+		<name>Camp May 30 1808</name>
+		<LookAt>
+			<longitude>-96.37465427984381</longitude>
+			<latitude>51.22872142884116</latitude>
+			<altitude>255.3665125621649</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>38911.12638459541</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.35104230560184,51.22129690330458,218.6891707262434</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C70388A63DC0FC0A81">
+		<name>Camp May 31 1808</name>
+		<LookAt>
+			<longitude>-96.6079821511201</longitude>
+			<latitude>51.45732834785828</latitude>
+			<altitude>218.5648931104343</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>112464.4228430092</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.51348727670116,51.40344576802617,221.4624292060362</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0270B9B8623DC0FE60D6">
+		<name>Camp June 2 1808</name>
+		<LookAt>
+			<longitude>-96.56387879921924</longitude>
+			<latitude>51.54857727349898</latitude>
+			<altitude>219.0445885049517</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>10907.28258157731</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.59646874508832,51.53472978061981,219.5888971813519</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04317813333DC0FED5E1">
+		<name>Camp June 1 1808</name>
+		<LookAt>
+			<longitude>-96.5807319748229</longitude>
+			<latitude>51.51312019300752</latitude>
+			<altitude>225.7641740489833</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>28930.12970086187</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.59416385534092,51.50589733828789,225.9363924594375</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F6522DF343DC101C16B">
+		<name>Camp June 3 1808</name>
+		<LookAt>
+			<longitude>-96.87023811885197</longitude>
+			<latitude>51.86378356683035</latitude>
+			<altitude>221.5231161213866</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>7621.520777324913</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.88637404414386,51.86679626231949,220.8526505380978</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0429610BD23DC103B271">
+		<name>Camp June 4 1808</name>
+		<LookAt>
+			<longitude>-97.08458824107761</longitude>
+			<latitude>52.38608032415148</latitude>
+			<altitude>218.4723913113894</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>10418.26193568064</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.10062191391081,52.38326160545448,218.5103821906707</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="091C31F6963DC104A327">
+		<name>Camp June 5 1808</name>
+		<LookAt>
+			<longitude>-97.12586100270913</longitude>
+			<latitude>52.40551205346101</latitude>
+			<altitude>218.5050239014683</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>13847.86577576771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.13070564228228,52.39432426159676,218.4959607952339</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="005A084F133DC105BC71">
+		<name>Camp June 6 1808</name>
+		<LookAt>
+			<longitude>-97.16192284900838</longitude>
+			<latitude>52.45250128336152</latitude>
+			<altitude>222.9416822032305</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>35383.24210639112</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.16437100215788,52.53959206582326,225.1583754900699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B5ADF122F3DC10831E8">
+		<name>Camp June 7 1808</name>
+		<LookAt>
+			<longitude>-97.2197160964346</longitude>
+			<latitude>52.6292747707391</latitude>
+			<altitude>216.6613285925491</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>2177.430140838842</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.21758398163287,52.62854212983049,216.6628125785241</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0495A567BD3DC10A28B6">
+		<name>Camp June 9-10 1808</name>
+		<LookAt>
+			<longitude>-97.42375477968902</longitude>
+			<latitude>53.06166075161896</latitude>
+			<altitude>218.3451783256173</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>14478.95064291777</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.49664770310328,53.21201376919552,218.3720288232973</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D359640EC3DC10F196F">
+		<name>Poplar River House June 8 1808</name>
+		<LookAt>
+			<longitude>-97.2698563543927</longitude>
+			<latitude>52.99278250554978</latitude>
+			<altitude>224.2622911420445</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>8585.417429201771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.23506751110592,52.98755915827035,223.9161248880055</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08979BBE573DC112CDB8">
+		<name>Camp June 11 1808</name>
+		<LookAt>
+			<longitude>-97.75692332796362</longitude>
+			<latitude>53.65632532970209</latitude>
+			<altitude>224.6338638150199</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>70218.92028847709</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.83726396787225,53.61689690022694,224.8216166988077</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA0CB86113DC118740E">
+		<name>Oxford House June 17 1808</name>
+		<LookAt>
+			<longitude>-95.26075462526676</longitude>
+			<latitude>54.9337979713613</latitude>
+			<altitude>181.5119887993415</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>108704.1009898111</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-95.26734320949542,54.94890211498637,174.4636293351753</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02BC2AE1543DC119163C">
+		<name>York Factory July 1 1808</name>
+		<LookAt>
+			<longitude>-92.65524927968282</longitude>
+			<latitude>56.82872262534506</latitude>
+			<altitude>28.18437209654984</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>217344.1442867741</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-92.27502356589653,57.01212357894148,-8.530966696689813</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="080963A0873DC11A8F8B">
+		<name>Hill River June 25 1808</name>
+		<LookAt>
+			<longitude>-93.38378305220786</longitude>
+			<latitude>56.01965204387805</latitude>
+			<altitude>81.52006453355575</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>82288.49087225275</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-93.28816312114077,56.05380482625813,79.14806608675478</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B1B6E27363DC11D961E">
+		<name>White Fall June 13 1808</name>
+		<LookAt>
+			<longitude>-97.58245433201165</longitude>
+			<latitude>54.220520640243</latitude>
+			<altitude>230.9125100907932</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>12730.36579573061</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.59779884087999,54.22528336288544,217.5755068382299</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB3DE202B3DC11E4ECC">
+		<name>Each Away Mamis River - Camp June 12 1808</name>
+		<LookAt>
+			<longitude>-97.70882612247117</longitude>
+			<latitude>54.08374376098526</latitude>
+			<altitude>225.9465550403097</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>35528.96208403632</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.77203921560103,54.04751700054931,221.8143556579609</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05DCDFE7DD3DC1212084">
+		<name>Camp June 14 1808</name>
+		<LookAt>
+			<longitude>-97.13919552762228</longitude>
+			<latitude>54.40465059559268</latitude>
+			<altitude>217.8410448460655</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>27844.74460249767</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-97.11573121571412,54.40566498503722,219.3710483163578</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C199D44E93DC125984B">
+		<name>Camp June 15 1808</name>
+		<LookAt>
+			<longitude>-96.60411638449274</longitude>
+			<latitude>54.43400963298723</latitude>
+			<altitude>280.2581964146314</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>82857.84248163924</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-96.56575613889432,54.38803739480582,253.8506792669736</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CDCE18FBF3DC1261A84">
+		<name>Camp June 16 1808</name>
+		<LookAt>
+			<longitude>-95.88696230958129</longitude>
+			<latitude>54.62658663987867</latitude>
+			<altitude>195.218975595163</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>31703.43144569546</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<Point>
+			<coordinates>-95.88608821280505,54.62728401484359,195.1967736632425</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B1C24D7B3DC16CA246">
+		<name>Elbow to YF</name>
+		<LookAt>
+			<longitude>-91.95714024166239</longitude>
+			<latitude>57.35263251013124</latitude>
+			<altitude>21.84888434841148</altitude>
+			<heading>0.1990755985154284</heading>
+			<tilt>0.5647002493869774</tilt>
+			<gx:fovy>30.00000000002611</gx:fovy>
+			<range>212580.876903981</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0E6C4D10C13DC086E1CC</styleUrl>
+		<LineString>
+			<coordinates>
+				-102.1067208013503,51.71631879531753,0 -102.075677332878,51.7123920109857,0 -102.0254982449013,51.70113788370392,0 -102.0171483237126,51.71641650429852,0 -102.014481941317,51.7365049393929,0 -102.0115259804739,51.747944758556,0 -102.0102286804951,51.77070374261076,0 -102.0005872176927,51.77126169471568,0 -101.9962521205947,51.75644282369446,0 -101.9883714173266,51.74042435604481,0 -101.9817102344871,51.72780232689521,0 -101.9778786949781,51.71765999385727,0 -101.9686438237676,51.70292174958308,0 -101.9500252136646,51.68275048065038,0 -101.9387550844906,51.66922709958483,0 -101.9354065167282,51.65386091443569,0 -101.9357166960505,51.64308221057856,0 -101.9345986465605,51.62883298612728,0 -101.9281353059544,51.61596263838727,0 -101.9205362238862,51.60100310979748,0 -101.9223198586149,51.58400542113232,0 -101.9194377038311,51.5718770384556,0 -101.9060895529088,51.56090557487442,0 -101.8878234527133,51.54825034095474,0 -101.8753691018253,51.53638694320333,0 -101.8614213588976,51.52432774041537,0 -101.8402387371574,51.5082943238429,0 -101.821752391959,51.49176894649106,0 -101.8004980433377,51.47298844376862,0 -101.787679394125,51.4627672267954,0 -101.7721150009848,51.4537815457788,0 -101.7630646545667,51.43572803292813,0 -101.7473559908971,51.41015948463844,0 -101.7402030132608,51.39258076848287,0 -101.7308399540668,51.37442679228835,0 -101.7250373622119,51.35344364679671,0 -101.7207389762013,51.34045822434853,0 -101.7077206485153,51.32686622582435,0 -101.6876802685557,51.31888412332666,0 -101.6470596126779,51.30684997436884,0 -101.5961109906342,51.29581132085129,0 -101.5612355482133,51.28645807894288,0 -101.5411385108948,51.277007305501,0 -101.5372070671422,51.26390781540636,0 -101.533633910748,51.25282378100113,0 -101.5303528506964,51.23632701506851,0 -101.5165973279911,51.21064138693384,0 -101.4988688458722,51.18532450372738,0 -101.4975552979982,51.17246967673813,0 -101.5054877802113,51.15322901417979,0 -101.5022369600123,51.14110941736232,0 -101.4742673765667,51.1339676706496,0 -101.4443770158685,51.12893815358298,0 -101.4287616238215,51.11428499965689,0 -101.4238987343756,51.10933977689474,0 -101.412557757166,51.09032167330945,0 -101.4085590079099,51.07779953924064,0 -101.4021709232173,51.03334554482738,0 -101.4033259990243,50.99134336503442,0 -101.4186463091878,50.95927098495449,0 -101.4426592894315,50.95449970447608,0 -101.4682332422661,50.95021512034928,0 -101.4779710851576,50.94470473895016,0 -101.4828318766376,50.93719858344372,0 -101.4851459890232,50.90328507102583,0 -101.4723735491429,50.88528861125736,0 -101.4520468821768,50.86713542579172,0 -101.4350183056303,50.8437287471813,0 -101.4330903093493,50.82159862168011,0 -101.4348653075592,50.79610151038036,0 -101.4399888018204,50.7748068247523,0 -101.4363718473143,50.76030672144169,0 -101.4259916544038,50.73724525911675,0 -101.41724966885,50.71467236042621,0 -101.4122156572171,50.69732878229838,0 -101.4117703551453,50.67146032339478,0 -101.412309023106,50.64824720410439,0 -101.4128085483911,50.62791180948894,0 -101.4077593957516,50.59934733791082,0 -101.4046989508562,50.56042699118964,0 -101.3933316744606,50.52444332143468,0 -101.3564616909721,50.48856747809678,0 -101.3300709818508,50.46361578413148,0 -101.2991036460165,50.43363732807637,0 -101.2703541632829,50.40740952965441,0 -101.2464021869734,50.37993772555247,0 -101.2334745223194,50.34515466662414,0 -101.2181946699747,50.30574884578121,0 -101.2124793893925,50.28050000603713,0 -101.1914604368252,50.26182997007374,0 -101.1807213559085,50.24289737435249,0 -101.1519933293968,50.22449656005097,0 -101.1118213365231,50.20918650093703,0 -101.086129946051,50.19846532765156,0 -101.0751204086212,50.17784568033125,0 -101.0729348997235,50.1560444642111,0 -101.0649308995141,50.13028789589963,0 -101.0446946109095,50.11024582708149,0 -101.0100752105518,50.09716640631923,0 -100.9735825668348,50.08562067313466,0 -100.9317758712964,50.07180619016449,0 -100.9079533263656,50.05422145011694,0 -100.8850867146836,50.02740208779016,0 -100.8802900105295,49.98364467269923,0 -100.88456015433,49.95595011271371,0 -100.873760210819,49.93576068297427,0 -100.8557159688521,49.92268489416412,0 -100.8488476787303,49.89333877435232,0 -100.8408885005104,49.863375051114,0 -100.8243784342495,49.84153721809031,0 -100.7956390494284,49.83184553384225,0 -100.7674475000474,49.82791408770193,0 -100.7202821104746,49.81490805433331,0 -100.6740483870643,49.80683105436963,0 -100.6352226830201,49.79847541874962,0 -100.5965254609784,49.79023832600433,0 -100.5540281027974,49.78821664111241,0 -100.5155898364681,49.79717891794459,0 -100.5001045000639,49.8195907850549,0 -100.4741503576861,49.84149111159895,0 -100.442978901737,49.85449210403719,0 -100.42057922214,49.86253564866195,0 -100.3977072028799,49.87410516722057,0 -100.3679173735291,49.88480040928897,0 -100.3290676294568,49.89543371489729,0 -100.2951639564493,49.89978565592141,0 -100.2329496057675,49.89144801562455,0 -100.1957752269927,49.88195433348947,0 -100.1426669156204,49.87615722169412,0 -100.1097418147072,49.87295823249564,0 -100.0965517800072,49.86542289962244,0 -100.0669265540321,49.85354059365251,0 -100.018588594871,49.85294563481856,0 -99.96629043505804,49.85389897775816,0 -99.9156288369453,49.85111177920353,0 -99.87955973490344,49.83913575423556,0 -99.83216123496422,49.8192519656256,0 -99.80291634392475,49.80699097715834,0 -99.77181407953417,49.78910229136557,0 -99.74394238572259,49.772647463176,0 -99.7151394621384,49.76812745913738,0 -99.70538264174753,49.75505138249954,0 -99.69118976280249,49.74143292613811,0 -99.67250036936657,49.71448748155636,0 -99.65224890022091,49.69529256798124,0 -99.63846862201405,49.68120563361272,0 -99.60364444582639,49.66001285200058,0 -99.57030103671616,49.65695451946831,0 -99.54034492007949,49.64971195979655,0 -99.51118880792677,49.63271231274902,0 -99.48580785651741,49.62000361057864,0 -99.45136358779186,49.61107337880448,0 -99.41657267792507,49.60382133201442,0 -99.38015826752755,49.59678328347152,0 -99.34391145898414,49.59993864913891,0 -99.31383671958346,49.61149526546635,0 -99.28264560520084,49.6345399606252,0 -99.27843239401594,49.64265932625747,0 -99.27315498579068,49.65144282750862,0 -99.25258026760369,49.6703701419601,0 -99.23029035422449,49.69532874162985,0 -99.19398694902152,49.70183714542729,0 -99.16814847376713,49.70128484098667,0 -99.13577344521889,49.69663056241289,0 -99.09175621900268,49.69256315095129,0 -99.04468612851834,49.69535568815091,0 -99.00670353455457,49.70524067556276,0 -98.97755899197365,49.70981119517224,0 -98.95939094993133,49.71212043171597,0 -98.94135912755203,49.70128322124638,0 -98.92008331169433,49.69228625075426,0 -98.87223978799797,49.69746208205685,0 -98.83347937491412,49.71250963451509,0 -98.81029406997683,49.72269486724368,0 -98.78366676844107,49.73978336215996,0 -98.74821826373564,49.74479900121528,0 -98.71626369892768,49.74348427003515,0 -98.6898183410749,49.75147917721804,0 -98.67809258115162,49.75802703739764,0 -98.63980367640522,49.75888218014693,0 -98.61595155399219,49.75110832202828,0 -98.58705967610653,49.74755124147576,0 -98.55425873914099,49.75490928260903,0 -98.52504228437306,49.75226291778429,0 -98.48311413724086,49.74836548094061,0 -98.47005805616591,49.76559604743742,0 -98.47334119200758,49.78807042097651,0 -98.46909534545503,49.81402078013899,0 -98.46501166451721,49.83530580475973,0 -98.46223473568384,49.85182623130325,0 -98.45900520583675,49.85627917734011,0 -98.43595324438397,49.86442392478428,0 -98.41059296883546,49.87558568974265,0 -98.3984300491253,49.89294265196828,0 -98.39677053875805,49.90634539320911,0 -98.36206469277714,49.92117527091349,0 -98.34233406115865,49.93881278225737,0 -98.32625277988851,49.94729660013542,0 -98.30877980517835,49.93910127555384,0 -98.27892881287667,49.94959272306807,0 -98.26281534910829,49.94258177362354,0 -98.2321058060903,49.94037247196758,0 -98.20320039927577,49.93607095904929,0 -98.18902375413469,49.94376343020548,0 -98.18102470562842,49.96072371007958,0 -98.15050985540665,49.96573365654327,0 -98.10292961237748,49.9627809211622,0 -98.07611423781415,49.99164401123613,0 -98.05212833919536,50.02062031469571,0 -98.01786634296893,50.02705470810498,0 -97.97582171342209,50.03214810105109,0 -97.93984222466008,50.04629819332737,0 -97.88831503351562,50.0479107054051,0 -97.84572263257621,50.04176248287481,0 -97.83119697015435,50.03854917002501,0 -97.82290568407328,50.0213601220485,0 -97.79689597324064,50.01234885080648,0 -97.74667655332249,50.00926902160081,0 -97.71418493539123,49.9954092028993,0 -97.69005033380502,49.98400086196385,0 -97.65262399063137,49.96307102615352,0 -97.61248804771127,49.94494697711104,0 -97.5862390180076,49.92818372715939,0 -97.5625461235182,49.91547521021657,0 -97.53548163035612,49.90074619317135,0 -97.50479635491783,49.88664704062484,0 -97.4904785278229,49.87309137746601,0 -97.47090200961402,49.86562407892868,0 -97.44973540524016,49.86935997945293,0 -97.40858902754393,49.86802757855019,0 -97.38152622221176,49.86465700550563,0 -97.36521885251204,49.86825702029045,0 -97.35033451967844,49.86899986235391,0 -97.34128544502123,49.86482918551224,0 -97.31839755591822,49.87070143569369,0 -97.29904912147238,49.86472748964054,0 -97.27755984613793,49.85919290502127,0 -97.27300250733556,49.86977071912084,0 -97.24734384036802,49.87423971187473,0 -97.22642300556291,49.87456022317905,0 -97.21076805831613,49.87367242944401,0 -97.19190040097071,49.87853726629427,0 -97.1800286458644,49.87777738847622,0 -97.17136465026304,49.8764479468019,0 -97.16442622604687,49.87866061483919,0 -97.15561000625952,49.87469201533737,0 -97.15137852173892,49.88015306121266,0 -97.14040998494875,49.88270309554099,0 -97.13242225933008,49.88475670308154,0 -97.12795483226313,49.88483356625972,0 -97.12648990690684,49.88904752992845,0 -97.13105462925876,49.8977137443962,0 -97.12739984970167,49.90015964865108,0 -97.11208151352415,49.90060166699656,0 -97.10993708273077,49.90379472337887,0 -97.11821466513497,49.90754919621004,0 -97.12667168172598,49.91395311910593,0 -97.12301876830202,49.91782583913323,0 -97.11653385885282,49.92067538277283,0 -97.10964032166981,49.92546943148437,0 -97.11115048781689,49.93528351304168,0 -97.10653137746515,49.93808571945659,0 -97.0952299067,49.94309847248029,0 -97.09709401309436,49.94992913212796,0 -97.08827033747502,49.95085771919096,0 -97.06934760248969,49.96384002175257,0 -97.06008010061926,49.97914375075622,0 -97.04137628417415,49.99394735964243,0 -97.03950282771508,50.01728159830814,0 -97.0348200148468,50.02555305795016,0 -97.02662357312572,50.03305325291944,0 -97.00976749906846,50.03270216329571,0 -97.00011777929109,50.03783075382977,0 -96.98678792723047,50.03922690428589,0 -96.98668659982611,50.05439888512473,0 -96.97596020361745,50.06614257722855,0 -96.96461454624499,50.06464313968676,0 -96.95111200831478,50.07060929748481,0 -96.94802910027339,50.07874143725126,0 -96.93700489219671,50.08050338047422,0 -96.9376971096615,50.09205032316526,0 -96.93837986277128,50.09912224113084,0 -96.92995386326658,50.11019429677996,0 -96.90978747940488,50.11607395613277,0 -96.9004037867615,50.12067774522065,0 -96.88680580550299,50.12549785791012,0 -96.86218303389442,50.12567599222945,0 -96.85552853610868,50.13258257911516,0 -96.86918939677574,50.13820248370503,0 -96.85187916268974,50.14905349645817,0 -96.85083568401106,50.15623450601565,0 -96.85829138993067,50.16913833816398,0 -96.85048880823186,50.17873122401442,0 -96.8435117635527,50.18294550237728,0 -96.8418830468927,50.19074548433579,0 -96.83267864753104,50.20022903618842,0 -96.83429128167569,50.21322978124505,0 -96.83211728963957,50.22491961675306,0 -96.83266964207917,50.23992410203482,0 -96.84585195585105,50.25904053847031,0 -96.84649945071635,50.26994637962863,0 -96.84959622283793,50.28199081779799,0 -96.86296949975713,50.29287757075132,0 -96.85729979448629,50.29570705641459,0 -96.84058675372557,50.30327055141193,0 -96.82823424419905,50.31503580331815,0 -96.82092655843188,50.32524815451958,0 -96.82669692789739,50.33746584891085,0 -96.83604227005208,50.34508537223437,0 -96.83725047280308,50.35463805410942,0 -96.82667705340361,50.36574999954365,0 -96.81051955114002,50.37069074385185,0 -96.80530694717658,50.37624583219501,0 -96.80208030169807,50.3839225817474,0 -96.79373369613289,50.38800894973516,0 -96.77509747017338,50.39070948386415,0 -96.76109742880203,50.38831546847517,0 -96.6347349216383,50.42775548618314,0 -96.60706795494821,50.49842865816573,0 -96.62461691903735,50.52075373896935,0 -96.63068164033483,50.53912737351804,0 -96.64258740840199,50.55171568409913,0 -96.63732324426726,50.56118279805426,0 -96.59493581651667,50.604823403099,0 -96.60125139108617,50.6364065801714,0 -96.60417991649139,50.6588790714052,0 -96.58860497563073,50.67666729521576,0 -96.56863206178841,50.70436736913028,0 -96.57551006649499,50.74894521546893,0 -96.56174305049724,50.76883343878219,0 -96.53805720246166,50.77821383014167,0 -96.53216125846217,50.78031555969098,0 -96.36844470570367,50.78561096540854,0 -96.35650476769104,50.81665729523659,0 -96.37219075624294,50.8623986356818,0 -96.38175118751161,50.90798594540453,0 -96.38703583315549,50.95392946545144,0 -96.39452360505427,50.99386291108443,0 -96.40090026626201,51.01810778543044,0 -96.41316623465782,51.05602118354251,0 -96.44298582937165,51.07233416742642,0 -96.44452299567098,51.08767199993004,0 -96.43520231770296,51.09526148562581,0 -96.42337181146392,51.10718672101861,0 -96.40918941667663,51.12316635758504,0 -96.40928943552566,51.15390006291069,0 -96.39014611440285,51.17512901904279,0 -96.36571195113754,51.18791469838594,0 -96.35777230003723,51.21917101223637,0 -96.35609320450823,51.22312043178518,0 -96.34291811841004,51.23586240981873,0 -96.33107180292609,51.24590292928015,0 -96.34207653030116,51.27123776846059,0 -96.37605290274635,51.27841031822835,0 -96.4056250173283,51.31643628589578,0 -96.44377721353393,51.33137669433834,0 -96.48030946875751,51.35014532225338,0 -96.49896261696044,51.36561147068009,0 -96.50551067959915,51.38444745883686,0 -96.51482409238344,51.40177949493008,0 -96.53445394942374,51.43637017925186,0 -96.54988004763257,51.4549512982765,0 -96.58160812195734,51.47491649586927,0 -96.60233232406905,51.49696429584016,0 -96.59740598386588,51.50604210016962,0 -96.59850660468977,51.52139297473656,0 -96.59626630550102,51.53563190883159,0 -96.57720616721866,51.56000617544674,0 -96.61896409839835,51.59572372886447,0 -96.64439457393941,51.61605394414498,0 -96.7378524214018,51.68328504825239,0 -96.75251568637168,51.69562067833107,0 -96.76073778775904,51.72071496408835,0 -96.79767338176647,51.74135831229145,0 -96.82744135678087,51.75804187483796,0 -96.83446075491759,51.76808138228311,0 -96.86407829892255,51.85492728543365,0 -96.88647653477571,51.86720104143505,0 -96.89445080884471,51.87855026732865,0 -96.88836179122443,51.89026245210464,0 -96.87602937250273,51.90023311897898,0 -96.86875279456962,51.9179611484186,0 -96.86910103617308,51.94086716076912,0 -96.88036159353618,51.98782490183219,0 -96.97830031852298,52.05212550087673,0 -96.98823184350897,52.07047806010137,0 -96.99779369180929,52.10333056911392,0 -97.03909846015692,52.13842180749044,0 -97.05398350956767,52.15717355531689,0 -97.07399034977908,52.1969481415678,0 -97.12285930733188,52.24423001078107,0 -97.09678487907112,52.32245230716423,0 -97.08677373440332,52.34001542059184,0 -97.06335985806118,52.35000457886915,0 -97.06512896996283,52.36290963484475,0 -97.08826763424632,52.37561905743617,0 -97.1004809181708,52.38285377043254,0 -97.13106827056288,52.39355015249655,0 -97.13803858273447,52.3995825951451,0 -97.12940157871812,52.40929124772468,0 -97.12124026000109,52.48562052815851,0 -97.16629381861253,52.5391519417464,0 -97.18120689882349,52.58980330262882,0 -97.19546474830673,52.60228758148225,0 -97.21803711253217,52.62643490373785,0 -97.24200362889543,52.69071321607175,0 -97.33232586064926,52.74734532829211,0 -97.34187058108665,52.75659934209297,0 -97.3623640376647,52.80472828858326,0 -97.38633885433714,52.83203317133048,0 -97.39733081197662,52.84573893749351,0 -97.41243718776977,52.85390994803577,0 -97.41262305119628,52.87509154899995,0 -97.40810533589965,52.91248908352444,0 -97.44611668065855,52.93333023362754,0 -97.46058482792422,52.93920803099196,0 -97.46249586210666,52.95693111929987,0 -97.45648906922381,52.96924279027274,0 -97.40201053476437,52.99688034878596,0 -97.3797310759918,53.00299893026753,0 -97.34366206821096,52.99899564426417,0 -97.31804794635742,52.99704154550695,0 -97.29695406423383,52.99483691613621,0 -97.27970755214358,52.99336876434981,0 -97.26993016697038,52.98952541666874,0 -97.25596736991488,52.9892318310207,0 -97.24433904836233,52.99072268577145,0 -97.23383340336699,52.98740775313485,0 -97.25875744469978,52.99082594204013,0 -97.28681806435419,52.9928486273773,0 -97.30418196451413,52.99693997438457,0 -97.33537419820016,53.00300063137006,0 -97.35913745447598,53.01621342829945,0 -97.41143861379298,53.02846082451177,0 -97.4252509181286,53.04980214327566,0 -97.43813255256049,53.07842188698337,0 -97.45900726400312,53.12495315372664,0 -97.46808367818942,53.14116120957046,0 -97.47301415209765,53.18607917925987,0 -97.49682048206705,53.20912782243111,0 -97.50780815095261,53.20868872716417,0 -97.54224868568312,53.23521131239089,0 -97.56051712638856,53.24893460811249,0 -97.57598329114987,53.26124514814105,0 -97.59488147970798,53.28392305699565,0 -97.60114006555443,53.31074097856394,0 -97.59569043735017,53.34779378275083,0 -97.6127131807215,53.36750982264258,0 -97.64611657825408,53.38529981757269,0 -97.683651104742,53.40879822312107,0 -97.68598547977655,53.43558879629672,0 -97.71699027509288,53.49208383474546,0 -97.78404895285455,53.56572897856492,0 -97.83626068598295,53.60688711471018,0 -97.84049143782792,53.61793447919381,0 -97.82883154111343,53.68140359766293,0 -97.8534776486518,53.69675626783696,0 -97.86611579304592,53.71248254863373,0 -97.86268757352022,53.73139085278204,0 -97.88207462125226,53.74569325818491,0 -97.90530639985896,53.76408995546179,0 -97.9650483488368,53.83523422717637,0 -97.99465341736926,53.8559887468675,0 -98.00569440358882,53.89631756667222,0 -97.99721356779831,53.93229210492398,0 -97.99945973497222,53.94384302325322,0 -97.99306013409407,53.97321791144905,0 -97.95070729838154,53.99084638980686,0 -97.92233116920369,53.99717171249545,0 -97.87561664522853,53.99944290402055,0 -97.84935286646434,53.99793192705519,0 -97.81164466777008,54.01346383379514,0 -97.7933920494789,54.02735717715868,0 -97.77486726017379,54.04732448649526,0 -97.77076283007081,54.06131172143679,0 -97.7520420883895,54.08064776206574,0 -97.7387501291864,54.09627185322928,0 -97.71484363845912,54.10638896288543,0 -97.68831157987007,54.12110076228178,0 -97.68375821958517,54.13596717975192,0 -97.67392690814997,54.1441247230634,0 -97.64837767703095,54.15459219462232,0 -97.65255974888265,54.16670000703523,0 -97.64442559724924,54.17454924508147,0 -97.63032460756742,54.18633278447493,0 -97.62260909515572,54.19210412284985,0 -97.60541602998212,54.2019627144815,0 -97.59583905460356,54.20822048003813,0 -97.59435003271918,54.21735224015681,0 -97.59589964711854,54.22327885867865,0 -97.59866528297472,54.22505348842555,0 -97.59646394725803,54.23879940277163,0 -97.58262873330075,54.24397073706629,0 -97.57184714822436,54.24932390760817,0 -97.56365283175832,54.25660711427155,0 -97.56515338821166,54.26241923668386,0 -97.55967071785294,54.26993243335698,0 -97.55185485312008,54.27492987791698,0 -97.55044148575246,54.27996022988143,0 -97.5447624110126,54.28455259107958,0 -97.54504159016228,54.29510651046358,0 -97.53916250470394,54.29957350326958,0 -97.52596129349814,54.30466921444148,0 -97.51602263908303,54.30648257233429,0 -97.50067162795987,54.31211613104843,0 -97.49275173759241,54.31120148813577,0 -97.48214533659991,54.3129598919159,0 -97.46839182158266,54.31277820511919,0 -97.45876117725598,54.3151228440696,0 -97.43589235568611,54.31496040536428,0 -97.42468945335898,54.31428306789236,0 -97.41796980386027,54.31150669880691,0 -97.41206159695631,54.30881562831154,0 -97.40184626100145,54.31207756213221,0 -97.38469501618987,54.32013600186684,0 -97.37417047104056,54.32611167082241,0 -97.36699063039755,54.33381042969004,0 -97.35856576778836,54.33874668981616,0 -97.35118195272179,54.34121484102218,0 -97.31187849041071,54.35323709680843,0 -97.28618201972714,54.36022710225014,0 -97.27632194201011,54.36350084658386,0 -97.2653689565724,54.36682046774484,0 -97.25522641330362,54.37140130798772,0 -97.25010919740033,54.37349238343432,0 -97.24149640459976,54.37453885246556,0 -97.23487225546361,54.37264938591679,0 -97.2250086023373,54.37479033308662,0 -97.21071861188912,54.38047927089881,0 -97.1983559209243,54.38036095594854,0 -97.18647376974087,54.3831151525732,0 -97.17724016617258,54.38495080653504,0 -97.16715139406816,54.38721534988091,0 -97.15524902129724,54.39198982747348,0 -97.14397209570103,54.39347164525965,0 -97.13423309082695,54.39814367378409,0 -97.11935718286308,54.40367524026257,0 -97.11601111395406,54.40535441857746,0 -97.09349111012651,54.40667604491368,0 -97.07145509762998,54.40573422743319,0 -97.05475355460125,54.40222300723379,0 -97.03884504746729,54.4029477479422,0 -97.01775949174075,54.40522749949768,0 -97.00384652755292,54.404911592674,0 -96.98776075577086,54.40607278738851,0 -96.96685029418849,54.40703612262337,0 -96.96920759626657,54.39839257686003,0 -96.96299621889725,54.39745911050505,0 -96.93959213536762,54.3998127819419,0 -96.91864202179367,54.40340175819841,0 -96.89329698205664,54.4026505086025,0 -96.87872210378468,54.40454276191942,0 -96.84406511359275,54.40365374394054,0 -96.82128093468597,54.40246490630501,0 -96.8220414281696,54.39316982227342,0 -96.81441193582205,54.38817807266408,0 -96.80913628886735,54.37916784657475,0 -96.79266352179755,54.38064678519368,0 -96.77699667227699,54.38305714008575,0 -96.76925763297172,54.38148876870751,0 -96.76072610523984,54.38642684440647,0 -96.73677676970007,54.39649935744793,0 -96.73098729493037,54.39104817625313,0 -96.71499318040762,54.39125231621296,0 -96.68958995713308,54.39499756645068,0 -96.67436110461716,54.39276026760691,0 -96.65083621556616,54.38973271185459,0 -96.62317606291479,54.38630973097991,0 -96.60001198285393,54.38646637960365,0 -96.58002436750893,54.38857552802392,0 -96.56623036044279,54.38870399126523,0 -96.54470966041244,54.38462181217717,0 -96.52668293321685,54.3817116021232,0 -96.50533147020938,54.38193419925101,0 -96.49981211241391,54.38072734677741,0 -96.48813936664332,54.38412614931576,0 -96.47148132217487,54.38516068904431,0 -96.44695549314345,54.3768462996806,0 -96.4167254459399,54.37539288658467,0 -96.38520034731222,54.37738655706089,0 -96.35871335253637,54.38292371025351,0 -96.31509791986228,54.3987639933294,0 -96.32855680769676,54.41598433088474,0 -96.30804612572416,54.43475058924682,0 -96.27944331037919,54.44262875239268,0 -96.24310480397206,54.44865569342907,0 -96.20302127168391,54.44540575915151,0 -96.16649527419484,54.45251633967474,0 -96.13649254122402,54.46886412164338,0 -96.10863549324959,54.47879616363565,0 -96.09124570380875,54.49349620613476,0 -96.07837950909081,54.49858756018939,0 -96.06764071465518,54.50221665383809,0 -96.03842933036834,54.51340415388468,0 -95.98561318850724,54.54006549908785,0 -95.95008312305103,54.55593440524783,0 -95.95562808173167,54.56139873123197,0 -95.99152904541812,54.55408045967204,0 -95.97372517176085,54.57035739339715,0 -95.96315105082647,54.58141577446609,0 -95.94719972623695,54.59500971332321,0 -95.94051826314548,54.60528117064734,0 -95.91668551123117,54.61920128207491,0 -95.90236276044558,54.62299764314084,0 -95.88563834687484,54.62715347137897,0 -95.84850419361352,54.63900162643424,0 -95.82479322777601,54.65234430187928,0 -95.80690906665102,54.66326479277894,0 -95.78896083690169,54.68129254847936,0 -95.79912389550412,54.68483992280058,0 -95.81364013108244,54.69182769396984,0 -95.82138387653349,54.6983506295576,0 -95.82615673709786,54.70421916934299,0 -95.82966861283775,54.71654961528101,0 -95.83851339036312,54.72446535354709,0 -95.84399861642729,54.72657493089265,0 -95.84829106156938,54.73019799651352,0 -95.82273359062381,54.73706200896509,0 -95.79936652594714,54.74979210741587,0 -95.7762026335283,54.76363552020936,0 -95.75272536558973,54.76596400547654,0 -95.73310492028133,54.77036398048983,0 -95.70761322179986,54.77389290520565,0 -95.69031324096777,54.78404761861173,0 -95.65349709979114,54.7994013576692,0 -95.61234920671788,54.81304012458711,0 -95.51265880779046,54.82767152374342,0 -95.47773215041089,54.84879306839861,0 -95.46213774269552,54.8690653040148,0 -95.43987445679549,54.9005696381038,0 -95.37364565550719,54.92394813159997,0 -95.31825604102634,54.94068702626286,0 -95.26931498299281,54.94822814743467,0 -95.13370542844743,55.1299552257297,0 -95.08819525304487,55.2222087333359,0 -95.01806822324825,55.31047980540794,0 -94.92239635468626,55.33801487257283,0 -94.74070341425735,55.35603642328844,0 -94.595417540095,55.37543376017868,0 -94.5220594234972,55.41148302485085,0 -94.47247788480765,55.45376443658881,0 -94.41336998522671,55.54199173740045,0 -94.26834246223773,55.58007525283694,0 -94.12500412749861,55.61427447818755,0 -93.95278376112719,55.65827008307831,0 -93.86085508351862,55.74839773647356,0 -93.81736676432695,55.81219268455067,0 -93.76893658625154,55.8804467944267,0 -93.65283285823882,55.91897034671096,0 -93.49758856403548,55.95302034299781,0 -93.42814982580238,55.98115028367118,0 -93.35107362950892,56.01760105278672,0 -93.28824418154126,56.05101976757865,0 -93.20387395606799,56.08672756053333,0 -93.09249205070282,56.13905753664957,0 -93.02376653558423,56.17731950383251,0 -92.99582716961544,56.24579495031624,0 -92.90709383764229,56.30822308216581,0 -92.89784203676184,56.34606777289201,0 -92.84874163641403,56.3866940325962,0 -92.77883834224338,56.43897567573244,0 -92.71419798581572,56.49643976618247,0 -92.68135716638901,56.575097279038,0 -92.65262305659155,56.66391468353152,0 -92.67767351372208,56.67623505044033,0 -92.67206499874248,56.71477400288055,0 -92.69558274742067,56.72851202947294,0 -92.68572892597504,56.76281911934225,0 -92.65873064529805,56.78809070242221,0 -92.63291259116617,56.86065287980113,0 -92.56202417937928,56.91547260941413,0 -92.48163501035343,56.91822497979712,0 -92.44016811578265,56.94012307991739,0 -92.37686499266667,56.95563396628469,0 -92.31272177108391,56.9777979196063,0 -92.29261383775639,57.00163846670062,0 -92.27535145578733,57.0134980022813,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
