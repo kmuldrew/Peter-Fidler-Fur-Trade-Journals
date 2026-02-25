@@ -14,5 +14,8 @@ Volume 2:  1792-1800
 6. Journal from the South Branch to Chesterfield House 1800:					122-141
 
 Volume 3: 1807-1808
-1. Journal - Cumberland House to Athapescow Lake - 1807
-2. Journal - Swan to Red River to Nelson's River - 1808
+1. Journal - Cumberland House to Athapescow Lake - 1807    1-84
+2. Journal - Swan to Red River to Nelson's River - 1808    100-130
+
+Volume 4: 1809
+1. Journal - Clapham House to Flamborough House - 1809    1-20
