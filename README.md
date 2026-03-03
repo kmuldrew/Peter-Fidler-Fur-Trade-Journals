@@ -1,4 +1,4 @@
-Transcriptions of Peter Fidler's journals from his time with the Hudson's Bay Company. Lots of errors and unreadable words, but most of it is there. The kml files show his approximate camp sites; load the file into google earth to follow the geography being described.
+Transcriptions of Peter Fidler's travel journals from his time with the Hudson's Bay Company. Lots of errors and unreadable words, but most of it is there. The kml files show his approximate camp sites; load the file into google earth to follow the geography being described.
 
 Volume 1:  1791-1792
 1. A Journal from Isle a la Crosse by way of Swan Lake:			  1-45
