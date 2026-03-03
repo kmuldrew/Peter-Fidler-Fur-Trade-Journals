@@ -19,3 +19,8 @@ Volume 3: 1807-1808
 
 Volume 4: 1809
 1. Journal - Clapham House to Flamborough House - 1809    1-20
+
+Volume 5: 1897-1808
+1. Journal - Cumberland House to Athepescow to Fort Prince of Wales - 1807
+2. Journal - Charlton House to top of Lake Winnipeg - 1808
+   
