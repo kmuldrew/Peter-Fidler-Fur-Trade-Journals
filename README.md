@@ -1,5 +1,7 @@
 Transcriptions of Peter Fidler's travel journals from his time with the Hudson's Bay Company. Lots of errors and unreadable words, but most of it is there. The kml files show his approximate camp sites; load the file into google earth to follow the geography being described.
 
+Fidler - notes on navigation methods (contains a worked example of Fidler's method for converting sextant sights into latitude and longitude, using 18th century methods)
+
 Volume 1:  1791-1792
 1. A Journal from Isle a la Crosse by way of Swan Lake:			  1-45
 2. A Journal of a Journey with the Chepawyans 1791-2:			 46-133
