@@ -28,5 +28,5 @@ Volume 5: 1897-1808
 1. Journal - Cumberland House to Athepescow to Fort Prince of Wales - 1807
 2. Journal - Charlton House to top of Lake Winnipeg - 1808
    
-Maps
+Maps 
 3 maps drawn by native and Metis cartographers showing regions that were unknown to Europeans at the time.
